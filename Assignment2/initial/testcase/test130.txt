@@ -1,0 +1,19 @@
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+iconst 4
+iconst 3
+top

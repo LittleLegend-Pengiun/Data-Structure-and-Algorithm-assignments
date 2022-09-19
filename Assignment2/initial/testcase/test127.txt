@@ -1,0 +1,3 @@
+iconst 3
+istore 4
+val 4

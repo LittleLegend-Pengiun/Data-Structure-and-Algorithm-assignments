@@ -1,0 +1,9 @@
+iconst 1
+iconst 2
+istore 0
+istore 2
+fconst 3.3
+fstore 3
+top
+iload 2
+top

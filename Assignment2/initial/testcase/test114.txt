@@ -1,0 +1,5 @@
+iconst 4
+fconst 3.444
+fneg
+fadd
+top

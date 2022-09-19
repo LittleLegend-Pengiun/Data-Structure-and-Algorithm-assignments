@@ -1,0 +1,4 @@
+iconst 4
+istore 0
+istore 2
+top

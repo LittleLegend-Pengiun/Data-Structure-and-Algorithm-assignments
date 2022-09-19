@@ -1,0 +1,9 @@
+iconst 4
+iconst 3
+fsub
+top
+fstore 4
+fconst 3.3
+fload 4
+fsub
+top

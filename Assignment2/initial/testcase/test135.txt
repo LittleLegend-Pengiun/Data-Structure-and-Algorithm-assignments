@@ -1,0 +1,7 @@
+iconst 4
+iconst 3
+feq
+top
+iconst 1
+ineq
+top

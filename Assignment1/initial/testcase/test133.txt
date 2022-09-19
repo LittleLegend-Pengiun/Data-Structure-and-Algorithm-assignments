@@ -1,0 +1,4 @@
+iconst 4
+istore 0
+iload 2
+top

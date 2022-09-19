@@ -1,0 +1,4 @@
+iconst 44
+iconst 3
+irem
+top

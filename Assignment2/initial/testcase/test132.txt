@@ -1,0 +1,4 @@
+iconst 4
+istore 256
+idiv
+top

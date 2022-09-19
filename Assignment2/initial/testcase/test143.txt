@@ -1,0 +1,9 @@
+iconst 2
+iconst 4
+iconst 3
+istore a
+istore b
+istore c
+par a
+par b
+par c

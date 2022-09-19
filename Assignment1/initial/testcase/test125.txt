@@ -1,0 +1,5 @@
+iconst 4
+i2f
+fstore 0
+fload 0
+top

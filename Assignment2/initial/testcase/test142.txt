@@ -1,0 +1,5 @@
+iconst 0
+ineg
+iconst 10
+imul
+top

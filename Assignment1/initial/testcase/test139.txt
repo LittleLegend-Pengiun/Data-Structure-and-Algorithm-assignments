@@ -1,0 +1,6 @@
+fconst -3.9
+f2i
+top
+iconst 2
+iadd
+top    

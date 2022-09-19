@@ -1,0 +1,9 @@
+iconst 4
+iconst 3
+isub
+top
+istore 4
+iconst 3
+iload 4
+isub
+top

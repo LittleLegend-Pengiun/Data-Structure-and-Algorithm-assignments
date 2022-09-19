@@ -1,0 +1,7 @@
+iconst 4
+iconst 3
+imul
+top
+fstore 0
+fload 0
+top

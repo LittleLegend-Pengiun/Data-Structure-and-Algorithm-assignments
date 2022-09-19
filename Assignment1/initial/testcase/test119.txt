@@ -1,0 +1,4 @@
+iconst 4
+iconst 3
+flt
+top
